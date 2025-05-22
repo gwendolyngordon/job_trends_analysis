@@ -20,9 +20,8 @@ This project analyzes job posting trends across Canadian provinces using the Ind
 ---
 
 ## Project Structure 
-job_trends_analysis/
-    -images/ #All charts and plots
-    -provincial_postings_ca.csv #Dataset
-    -job_trends_analysis.ipynb #Notebook
-    -requirements.txt #Dependencies
-    -README.md #Project Overview
+- 'images/' - All charts and plots
+- 'provincial_postings_ca.csv' - Dataset
+- 'job_trends_analysis.ipynb' - Notebook
+- 'requirements.txt' - Dependencies
+- 'README.md' - Project Overview
